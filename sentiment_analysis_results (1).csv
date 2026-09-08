@@ -1,0 +1,64 @@
+Text,Actual Sentiment,Predicted Sentiment
+Successfully completing a challenging coding project. Excitement for overcoming coding hurdles! ,Positive,Positive
+ Enjoying a beautiful day at the park!              ,Positive,Positive
+ Feeling optimistic about the week ahead.           ,Positive,Positive
+"Surrounded by the colors of joy, a canvas painted with laughter and endless smiles. ",Positive,Positive
+"Entered the kitchen with the intention to cook. Left with a bag of chips. Cooking is overrated, anyway. #MasterChefInTraining #TeenHumor ",Negative,Positive
+Dealing with unfounded rumors circulating about personal life. Rumors can be hurtful. ,Negative,Negative
+"In the symphony of excitement, each note is a burst of energy, igniting the soul with fervor. ",Positive,Positive
+" Boredom lingers, a stagnant pool of indifference.  ",Negative,Negative
+ Rainy days call for cozy blankets and hot cocoa.   ,Positive,Positive
+Attending a workshop on time management to enhance organizational skills. Striving for efficiency. ,Neutral,Positive
+ Productive day ticking off my to-do list.          ,Positive,Negative
+Celebrating a friend's birthday with a surprise party. Joyful moments and laughter all around! ,Positive,Positive
+Pride in achieving a personal milestone in career progression.   ,Positive,Positive
+Successfully organized a surprise birthday party for a friend. Party planning expert mode: Achieved! ,Positive,Positive
+"Tears, the currency of grief, spent in the marketplace of lost love and longing. ",Negative,Negative
+Got my hands on the latest fantasy novel. Diving into realms of magic and adventure! ,Positive,Positive
+"Joined a seniors' cycling club, feeling the wind in my hair and the freedom of the open road. #CyclingClub #SeniorCyclist ",Positive,Positive
+" Grief weighs heavy, tears a constant companion.    ",Negative,Negative
+ Cooking a special dinner for loved ones.           ,Positive,Positive
+Successfully fundraising for a school charity initiative. The joy of giving back to the community! ,Positive,Positive
+" Embracing the beauty of nature, a moment of contentment. ",Positive,Positive
+ Political discussions heating up on the timeline.  ,Negative,Positive
+Attending a school assembly to stay informed about upcoming events and announcements. Staying connected with school activities. ,Neutral,Positive
+ Overflowing happiness: welcoming a new family member!  ,Positive,Positive
+" Boredom settles like dust, life feels mundane.     ",Negative,Negative
+"Embarked on a solo travel adventure, discovering the beauty of new places at my own pace. #SoloTravel #SeniorExplorer ",Positive,Positive
+Convinced the teacher to have class outdoors. Learning equations with a side of fresh air! ,Positive,Positive
+Accidentally sent a love letter to the wrong person. Love note fail: Maximum embarrassment! ,Negative,Negative
+Sharing favorite book recommendations with classmates. Building a mini book club. ,Neutral,Positive
+"Overflowing with joy, a cup of laughter shared with friends, a moment cherished. ",Positive,Positive
+ Disgust at the sight of injustice and cruelty.     ,Negative,Negative
+ Overflowing with gratitude for life's blessings.      ,Positive,Positive
+"Exploring the art of meditation, finding tranquility in the stillness of the mind. #MeditationJourney #TranquilMind ",Positive,Positive
+Practicing a stand-up comedy routine for the upcoming talent show. Comedy gig: In the making! ,Positive,Positive
+"Joined the school debate team. Words are my weapons, and I'm ready for battle! ",Positive,Positive
+ Planning a garden makeover for spring.             ,Positive,Positive
+ Feeling accomplished after a productive day.       ,Positive,Negative
+"Taking a stroll in the garden, appreciating the beauty of blooming flowers. Nature's wonders never cease. #GardenWalk #FloralBeauty ",Positive,Positive
+ Hopeful about the prospects of a new business venture.,Positive,Positive
+ Attending a live music concert tonight.            ,Positive,Positive
+Survived a group project without any drama. Miracles do happen. #GroupProjectSuccess #TeenAchievements ,Positive,Positive
+ An amusing incident brightened up my day!               ,Positive,Negative
+"Attended a classical music concert, feeling the timeless melodies resonate. Music transcends generations. #ClassicalMusic #TimelessMelodies ",Positive,Positive
+Encountering online toxicity during a gaming session. Hateful comments can ruin the fun. ,Negative,Negative
+Collaborating on a school project with peers. Teamwork makes the dream work. ,Neutral,Positive
+"Organizing a virtual talent show during challenging times, bringing smiles to classmates' faces! ",Positive,Positive
+"Discovered a new book series and spent the whole night reading. Who needs sleep, anyway? #BookwormLife #LateNightReading ",Positive,Positive
+ Shame for not being true to my values in a difficult situation.,Negative,Negative
+"Dancing on sunshine, each step a celebration of the joy found in simple moments. ",Positive,Positive
+Accidentally walked into the wrong classroom on the first day. Classroom mix-up: Awkward start! ,Negative,Positive
+ Feeling a bit under the weather today.             ,Negative,Negative
+ Late-night gaming session with friends.            ,Positive,Positive
+"Reflecting on a lifetime of memories, each wrinkle tells a story. Embracing the beauty of aging. #LifeReflections #BeautyInAging ",Positive,Positive
+Attended a concert and danced the night away. Music is the heartbeat of life. #ConcertVibes #DanceAllNight ,Positive,Positive
+Feeling lonely on a Saturday night. Sometimes solitude hits harder than expected. ,Negative,Negative
+ Winter sports day at the local park.               ,Positive,Negative
+ Exploring local art galleries this weekend.        ,Positive,Positive
+Attending a school club meeting to explore new interests. Dabbling in extracurricular activities. ,Neutral,Positive
+ Quality time with family this weekend.             ,Positive,Positive
+Experiencing hate comments for expressing personal opinions. Online negativity prevails. ,Negative,Positive
+Exploring the world of coding. Debugging is an adventure on its own! #CodingJourney #HighSchoolCoder ,Positive,Positive
+Rediscovered childhood cartoons and had a nostalgia-filled marathon. #CartoonNostalgia #TeenMemories ,Positive,Positive
+"Chasing dreams under the vibrant sky, a journey fueled by hope and enthusiasm. ",Positive,Positive
